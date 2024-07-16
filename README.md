@@ -7,7 +7,7 @@ Welcome to my daily diary documenting my journey through cybersecurity. This rep
 - Introduction to Cyber Security.
 - Introduction to Kali Linux Operating System
 
-### <a href="">Day 2</a>
+### <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%202.pdf">Day 2</a>
 - Installed Vmware and created virtual machines for testing purposes.
 - Explored various Linux distributions suitable for cybersecurity tasks.
 
