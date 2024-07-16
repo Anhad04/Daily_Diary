@@ -3,7 +3,7 @@
 Welcome to my daily diary documenting my journey through cybersecurity. This repository serves as a record of my daily learnings, challenges, and insights in the field of cybersecurity. I hope it provides valuable insights and resources for fellow enthusiasts and professionals alike.
 
 
-### <a href="">Day 1</a>
+### <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day_1.md">Day 1</a>
 - Introduction to Cyber Security.
 - Introduction to Kali Linux Operating System
 
