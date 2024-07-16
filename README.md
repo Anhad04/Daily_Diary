@@ -11,84 +11,84 @@ Welcome to my daily diary documenting my journey through cybersecurity. This rep
 - Installed Vmware and created virtual machines for testing purposes.
 - Explored various Linux distributions suitable for cybersecurity tasks.
 
-### <a href="">Day 3</a>
+### <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day3.pdf">Day 3</a>
 - Learned about exploitation.
 - Implemented basic tools like maltego, metasploit.
 
-### <a href="">Day 4</a>
+### <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%204.pdf">Day 4</a>
 - Studied basics of finding vulnerabilities and learned Price tempring.
 - Implemented Price tempring on e-commerce sites.
 
-###  <a href="">Day 5</a>
+###  <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%205.pdf">Day 5</a>
 - Solving Try Hack Me labs (Linux Fundamentals).
 - Hashing basics lab solved (Crack The Hash).
 
-###  <a href="">Day 6</a>
+###  <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%206.pdf">Day 6</a>
 - CTF - Pickle Rick.
 
-###  <a href="">Day 7</a>
+###  <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%207.pdf">Day 7</a>
 - CTF - Mr. Robot
 
-###  <a href="">Day 8</a>
+###  <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%208.md">Day 8</a>
 - Cryptography in Cyber Security
 - Applications of Cryptography in Cybersecurity
 - Challenges in Cryptography
 
-###  <a href="">Day 9</a>
+###  <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%209.md">Day 9</a>
 - Hashes in Cyber Security
 - Key concepts & Applications
 
-###  <a href="">Day 10</a>
+###  <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%2010.pdf">Day 10</a>
 - Cracking hashes via various platforms
 - cyber chef, hashes, haschcat, crackstation 
 
-### <a href="">Day 11</a>
+### <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%2011.md">Day 11</a>
 - Steganography in Cyber Security
 - Techniques and Applications
 
-###  <a href="">Day 12</a>
+###  <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%2012.pdf">Day 12</a>
 - Types of Steganography
 - Image, Audio, Text, Video, Network
 
-###  <a href="">Day 13</a>
+###  <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%2013.pdf">Day 13</a>
 - PICO CTF Cryptograohy and Forescics labs
 
-###  <a href="">Day 14</a>
+###  <a href="https://github.com/Anhad04/Daily_Diary/blob/main/day%2014.pdf">Day 14</a>
 -  Exploiting Linux OS vulnerabilities with Samba
 
-###  <a href="">Day 15</a>
+###  <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%2015.pdf">Day 15</a>
 - Certification - Ethical Hacking Essentials
 
-### <a href="">Day 16</a>
+### <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%2016.pdf">Day 16</a>
 - Certfications - SQL Injections Attacks
 
-### <a href="">Day 17</a>
+### <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day_17.md">Day 17</a>
 - Exploring Bugs in Websites
  
-###  <a href="">Day 18</a>
+###  <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%2018.pdf">Day 18</a>
 - Attended CTF Online 
 
-###  <a href="">Day 19</a>
+###  <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%2019.pdf">Day 19</a>
 - Portswigger Labs
 
-### <a href="">Day 20</a>
+### <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%2020.md">Day 20</a>
 - Studied about intruder model through burpsuite
 
-###  <a href="">Day 21</a>
+###  <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%2021.pdf">Day 21</a>
 - Attended Online CTF Ringer CTF 
 
-###  <a href="">Day 22</a>
+###  <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%2022.md">Day 22</a>
 - Introduction to Raspberry Pi
 - Key Features
 
-### <a href="">Day 23</a>
+### <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%2023.md">Day 23</a>
 - Configuration of Raspberry Pi
   
-### <a href="">Day 24</a>
+### <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%2024.md">Day 24</a>
 - Introduction to Wifi-Attacks
 - Types of Wifi-Attacks
 
-### <a href="">Day 25</a>
+### <a href="https://github.com/Anhad04/Daily_Diary/blob/main/Day%2025.md">Day 25</a>
 - Executing Wifi-Deauthentication 
 
 ## How to Use This Diary
