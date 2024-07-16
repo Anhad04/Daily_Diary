@@ -1,4 +1,4 @@
-# Daily Diary: Cybersecurity Insights
+# Daily Diary: Cybersecurity 
 
 Welcome to my daily diary documenting my journey through cybersecurity. This repository serves as a record of my daily learnings, challenges, and insights in the field of cybersecurity. I hope it provides valuable insights and resources for fellow enthusiasts and professionals alike.
 
