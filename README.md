@@ -3,104 +3,93 @@
 Welcome to my daily diary documenting my journey through cybersecurity. This repository serves as a record of my daily learnings, challenges, and insights in the field of cybersecurity. I hope it provides valuable insights and resources for fellow enthusiasts and professionals alike.
 
 
-### Day 1
+### Day 1 <a href="">Day_1</a>
 - Introduction to Cyber Security.
 - Introduction to Kali Linux Operating System
 
-### Day 2
+### Day 2 <a href="">Day_1</a>
 - Installed Vmware and created virtual machines for testing purposes.
 - Explored various Linux distributions suitable for cybersecurity tasks.
 
-### Day 3
+### Day 3 <a href="">Day_1</a>
 - Learned about exploitation.
 - Implemented basic tools like maltego, metasploit.
 
-### Day 4
+### Day 4 <a href="">Day_1</a>
 - Studied basics of finding vulnerabilities and learned Price tempring.
 - Implemented Price tempring on e-commerce sites.
 
-### Day 5
+### Day 5 <a href="">Day_1</a>
 - Solving Try Hack Me labs (Linux Fundamentals).
 - Hashing basics lab solved (Crack The Hash).
 
-### Day 6
+### Day 6 <a href="">Day_1</a>
 - CTF - Pickle Rick.
 
-### Day 7
+### Day 7 <a href="">Day_1</a>
 - CTF - Mr. Robot
 
-### Day 8
+### Day 8 <a href="">Day_1</a>
 - Cryptography in Cyber Security
 - Applications of Cryptography in Cybersecurity
 - Challenges in Cryptography
 
-### Day 9: Threat Intelligence
-- Learned about sources of threat intelligence and its importance in cybersecurity operations.
-- Explored threat intelligence platforms like VirusTotal.
+### Day 9 <a href="">Day_1</a>
+- Hashes in Cyber Security
+- Key concepts & Applications
 
-### Day 10: Introduction to Forensics
-- Explored digital forensics processes and techniques.
-- Practiced basic file system analysis using Autopsy.
+### Day 10 <a href="">Day_1</a>
+- Cracking hashes via various platforms
+- cyber chef, hashes, haschcat, crackstation 
 
-### Day 11: Secure Coding Practices
-- Learned about common vulnerabilities in programming languages (e.g., buffer overflow, SQL injection).
-- Explored secure coding guidelines from OWASP.
+### Day 11 <a href="">Day_1</a>
+- Steganography in Cyber Security
+- Techniques and Applications
 
-### Day 12: Social Engineering Awareness
-- Studied various social engineering techniques and real-world examples.
-- Explored phishing simulation tools.
+### Day 12 <a href="">Day_1</a>
+- Types of Steganography
+- Image, Audio, Text, Video, Network
 
-### Day 13: Identity and Access Management (IAM)
-- Explored IAM concepts such as authentication, authorization, and auditing.
-- Implemented multi-factor authentication (MFA) on personal accounts.
+### Day 13 <a href="">Day_1</a>
+- PICO CTF Cryptograohy and Forescics labs
 
-### Day 14: Cloud Security Fundamentals
-- Learned about cloud service models (IaaS, PaaS, SaaS) and deployment models (public, private, hybrid).
-- Explored AWS security best practices.
+### Day 14 <a href="">Day_1</a>
+-  Exploiting Linux OS vulnerabilities with Samba
 
-### Day 15: Vulnerability Assessment and Penetration Testing (VAPT)
-- Studied the difference between vulnerability assessment and penetration testing.
-- Conducted a vulnerability scan using Nessus.
+### Day 15 <a href="">Day_1</a>
+- Certification - Ethical Hacking Essentials
 
-### Day 16: Secure DevOps Practices
-- Explored integrating security into the DevOps pipeline (DevSecOps).
-- Studied tools like Jenkins for automated security testing.
+### Day 16 <a href="">Day_1</a>
+- Certfications - SQL Injections Attacks
 
-### Day 17: Mobile Security Basics
-- Learned about common threats to mobile devices (e.g., app vulnerabilities, device theft).
-- Explored mobile application security testing tools.
+### Day 17 <a href="">Day_1</a>
+- Exploring Bugs in Websites
+ 
+### Day 18 <a href="">Day_1</a>
+- Attended CTF Online 
 
-### Day 18: Security Policies and Compliance
-- Studied the importance of security policies and compliance frameworks (e.g., GDPR, HIPAA).
-- Drafted a sample security policy document.
+### Day 19 <a href="">Day_1</a>
+- Portswigger Labs
 
-### Day 19: Advanced Persistent Threats (APTs)
-- Explored characteristics and mitigation strategies for APTs.
-- Studied case studies of notable APT attacks.
+### Day 20 <a href="">Day_1</a>
+- Studied about intruder model through burpsuite
 
-### Day 20: Blockchain Security Fundamentals
-- Learned about blockchain technology and its security implications.
-- Explored smart contract vulnerabilities.
+### Day 21 <a href="">Day_1</a>
+- Attended Online CTF Ringer CTF 
 
-### Day 21: IoT (Internet of Things) Security
-- Explored IoT device security challenges and best practices.
-- Conducted a basic IoT penetration testing exercise.
+### Day 22 <a href="">Day_1</a>
+- Introduction to Raspberry Pi
+- Key Features
 
-### Day 22: Reverse Engineering Basics
-- Learned about reverse engineering techniques for analyzing binaries.
-- Explored tools like IDA Pro and Ghidra.
+### Day 23 <a href="">Day_1</a>
+- Configuration of Raspberry Pi
+  
+### Day 24 <a href="">Day_1</a>
+- Introduction to Wifi-Attacks
+- Types of Wifi-Attacks
 
-### Day 23: Red Team vs. Blue Team Exercises
-- Studied the roles and objectives of red team and blue team exercises.
-- Participated in a simulated red team attack scenario.
-
-### Day 24: Incident Response Simulation
-- Practiced incident response procedures in a simulated cyber attack scenario.
-- Documented lessons learned and areas for improvement.
-
-### Day 25: Ethical Hacking Certification Preparation
-- Explored certification options (e.g., CEH, OSCP) and study resources.
-- Started preparing for the CEH exam.
+### Day 25 <a href="">Day_1</a>
+- Executing Wifi-Deauthentication 
 
 ## How to Use This Diary
 - Explore each day's entry to learn about specific topics and practical exercises.
