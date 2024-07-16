@@ -2,39 +2,37 @@
 
 Welcome to my daily diary documenting my journey through cybersecurity. This repository serves as a record of my daily learnings, challenges, and insights in the field of cybersecurity. I hope it provides valuable insights and resources for fellow enthusiasts and professionals alike.
 
-## Days 1-25
 
-### Day 1: Introduction to Cybersecurity Basics
-- Explored fundamental concepts such as confidentiality, integrity, and availability (CIA).
-- Started reading "Introduction to Cybersecurity" by XYZ.
+### Day 1
+- Introduction to Cyber Security.
+- Introduction to Kali Linux Operating System
 
-### Day 2: Setting Up Virtual Lab Environment
-- Installed VirtualBox and created virtual machines for testing purposes.
+### Day 2
+- Installed Vmware and created virtual machines for testing purposes.
 - Explored various Linux distributions suitable for cybersecurity tasks.
 
-### Day 3: Basic Network Security Concepts
-- Learned about TCP/IP protocols and common network vulnerabilities.
-- Implemented basic firewall rules on virtual machines.
+### Day 3
+- Learned about exploitation.
+- Implemented basic tools like maltego, metasploit.
 
-### Day 4: Introduction to Cryptography
-- Studied symmetric and asymmetric encryption algorithms.
-- Implemented a basic encryption-decryption script in Python.
+### Day 4
+- Studied basics of finding vulnerabilities and learned Price tempring.
+- Implemented Price tempring on e-commerce sites.
 
-### Day 5: Malware Analysis Techniques
-- Analyzed a sample malware using basic static analysis techniques.
-- Explored malware sandboxing tools for dynamic analysis.
+### Day 5
+- Solving Try Hack Me labs (Linux Fundamentals).
+- Hashing basics lab solved (Crack The Hash).
 
-### Day 6: Web Application Security Fundamentals
-- Learned about OWASP Top 10 vulnerabilities.
-- Explored tools like Burp Suite for web application testing.
+### Day 6
+- CTF - Pickle Rick.
 
-### Day 7: Incident Response Planning
-- Studied the phases of incident response: preparation, detection, containment, eradication, and recovery.
-- Drafted an incident response plan template.
+### Day 7
+- CTF - Mr. Robot
 
-### Day 8: Wireless Security
-- Explored common Wi-Fi security protocols (WEP, WPA, WPA2).
-- Conducted a Wi-Fi penetration testing exercise.
+### Day 8
+- Cryptography in Cyber Security
+- Applications of Cryptography in Cybersecurity
+- Challenges in Cryptography
 
 ### Day 9: Threat Intelligence
 - Learned about sources of threat intelligence and its importance in cybersecurity operations.
